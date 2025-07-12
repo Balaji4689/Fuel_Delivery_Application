@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
 
 const OrderHistory = () => {
   return (
-    <div>
-      i am form order OrderHistory
+    <div className="order-history-page">
+      <h2>Order History</h2>
+      <p>I am from OrderHistory</p>
     </div>
-  )
-}
+  );
+};
 
-export default OrderHistory
+export default OrderHistory;
