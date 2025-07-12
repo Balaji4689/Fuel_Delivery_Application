@@ -1,3 +1,3 @@
 
 
-export const API_Path = "http://localhost:5001";
+export const API_Path = "https://fuel-delivery-application-backend.onrender.com/";
